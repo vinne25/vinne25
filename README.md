@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Vinicius!
 
-<!--
-**vinne25/vinne25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Técnico em **Desenvolvimento de Sistemas**  
+- 💼 Atualmente **Aprendiz de Dados na DHL**  
+- 📚 Estudante de **Ciência da Computação**  
+- 👨‍💻 Apaixonado por **Tecnologia, dados e desenvolvimento**  
+- 🌍 Objetivo: **Atuar como estagiário em tecnologia, com foco em desenvolvimento de software, integração de sistemas e inovação.**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas
+
+- Linguagens: `Python` | `JavaScript` | `SQL`  
+- Frameworks & Bibliotecas: `React Native` | `Firebase`  
+- Áreas de interesse: **Desenvolvimento Mobile e Backend**
+
+---
+
+## 📊 GitHub Stats
+
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=vinne25&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinne25&layout=compact&theme=tokyonight)
+
+---
+
+## ✨ Sobre mim
+Sempre buscando aprender, colaborar e crescer na área de tecnologia.  
+Curioso por inovação, apaixonado por resolver problemas e aberto a novos desafios 🚀.  
+
+📫 Como me encontrar:  
+- [LinkedIn](www.linkedin.com/in/vinicius-leite-83301a288)
+- ✉️ vinne.silvaleite@gmail.com
