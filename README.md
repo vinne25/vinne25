@@ -18,18 +18,14 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinne25&layout=compact&theme=tokyonight)
-
----
-
 ## ✨ Sobre mim
 Sempre buscando aprender, colaborar e crescer na área de tecnologia.  
 Curioso por inovação, apaixonado por resolver problemas e aberto a novos desafios 🚀  
 
 📫 **Como me encontrar:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-leite-83301a288)  
+
+[www.linkedin.com/in/vinicius-leite-83301a288](https://www.linkedin.com/in/vinicius-leite-83301a288/)
+
 ✉️ vinne.silvaleite@gmail.com
 
 ---
